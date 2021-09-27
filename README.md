@@ -1,6 +1,6 @@
-<p align="right">
+<a align="right">
   <img src="https://i.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.webp">
-</p>
+</a>
 
 <h1 align="left">👋 Hey there, I'm <a href="https://hapchinsky.cf/" target="_blank">Sined</a></h1>
 
