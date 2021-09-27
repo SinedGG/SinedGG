@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hey there, I'm <a href="https://hapchinsky.cf/" target="_blank">Sined</a></h1>
 Hey there, nice to meet you! My name is Denis im 18 y.o, but you might also know me as Sined!
 
-#### Contact
+### 🔌Contact
 
 You can get in touch with me via [any social media](https://hapchinsky.cf/) or [email](mailto:denis2320032@gmail.com).<br>
 
@@ -22,4 +22,4 @@ You can get in touch with me via [any social media](https://hapchinsky.cf/) or [
 <img  src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 </p>
 
-Made with 💖 by Sined.
+###### Made with 💖 by Sined.
