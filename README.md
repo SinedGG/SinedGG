@@ -3,15 +3,13 @@
 </p>
 
 <h1 align="center">👋 Hey there, I'm <a href="https://hapchinsky.cf/" target="_blank">Sined</a></h1>
+Hey there, nice to meet you! My name is Denis im 18 y.o, but you might also know me as Sined!
 
 #### Contact
 
 You can get in touch with me either via [any social media](https://hapchinsky.cf/) or [email](mailto:denis2320032@gmail.com).<br>
 
-### My skills
-
-I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
-
+<h2>🚀Technologies and skills<h2>
 <p align="left">
     <img  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
