@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="https://i.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.webp">
 </p>
 
