@@ -7,7 +7,7 @@ Hey there, nice to meet you! My name is Denis im 18 y.o, but you might also know
 
 #### Contact
 
-You can get in touch with me either via [any social media](https://hapchinsky.cf/) or [email](mailto:denis2320032@gmail.com).<br>
+You can get in touch with me via [any social media](https://hapchinsky.cf/) or [email](mailto:denis2320032@gmail.com).<br>
 
 <h2>🚀Technologies and skills<h2>
 <p align="left">
