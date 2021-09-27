@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif?cid=ecf05e477unt06j9euq4dcvjqdgoolmcpm1m4io2tugcd42e&rid=giphy.gif&ct=g">
+  <img src="https://i.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.webp">
 </p>
 
 <h1 align="center">👋 Hey there, I'm <a href="https://hapchinsky.cf/" target="_blank">Sined</a></h1>
