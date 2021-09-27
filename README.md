@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif?cid=ecf05e477unt06j9euq4dcvjqdgoolmcpm1m4io2tugcd42e&rid=giphy.gif&ct=g">
 </p>
 
@@ -10,6 +10,7 @@ You can get in touch with me either via [any social media](https://hapchinsky.cf
 
 ### My skills
 
+I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
 
 <p align="left">
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" />
