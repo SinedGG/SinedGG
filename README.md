@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/B6vCXYX/code.png">
+  <img src="https://i.ibb.co/Nyzf21L/code2.png">
 </p>
 
 <h1 align="center">👋 Hey there, I'm <a href="https://hapchinsky.cf/" target="_blank">Sined</a></h1>
